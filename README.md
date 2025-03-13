@@ -2,7 +2,7 @@
 > Aplikacja której potrzebuje każdy.
 
 # Instrukcja instalowania
-1. Idź do `Releases`
+1. Idź do [releases](https://github.com/Pix3lM0on/note-viewer/releases)
 2. Pobierz `installer.sh`
 3. Otwórz terminal i nawiguj do folderu gdzie znajduje się pobrany plik. Najczęściej jest to `~/Downloads`:
    ```bash
