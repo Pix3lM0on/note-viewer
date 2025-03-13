@@ -1,6 +1,8 @@
 # Note Viewer
 > Aplikacja której potrzebuje każdy.
 
+![Screenshot](screenshot.png)
+
 # Instrukcja instalowania
 ## Arch Linux
 1. Idź do [releases](https://github.com/Pix3lM0on/note-viewer/releases)
